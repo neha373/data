@@ -1,0 +1,26 @@
+app_name,category,rating,review_sentiment,review_count
+App A,Social,4.5,positive,5000
+App B,Gaming,3.8,neutral,1200
+App C,Finance,2.0,negative,2000
+App D,Health,4.2,positive,1500
+App E,Education,1.5,negative,800
+App F,Social,3.6,neutral,3000
+App G,Gaming,4.8,positive,2500
+App H,Finance,2.9,negative,1800
+App I,Health,4.0,neutral,2200
+App J,Education,1.8,negative,1000
+App K,Social,3.2,positive,1100
+App L,Gaming,4.7,neutral,2700
+App M,Finance,2.5,negative,1400
+App N,Health,4.3,positive,3500
+App O,Education,3.9,neutral,1600
+App P,Social,1.7,negative,900
+App Q,Gaming,4.6,positive,3200
+App R,Finance,2.8,neutral,1700
+App S,Health,4.1,negative,2400
+App T,Education,3.3,positive,2100
+App U,Social,2.2,neutral,1300
+App V,Gaming,4.9,positive,2900
+App W,Finance,3.0,negative,2300
+App X,Health,4.4,positive,2800
+App Y,Education,2.1,neutral,1900
